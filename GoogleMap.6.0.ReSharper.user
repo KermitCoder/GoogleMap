@@ -1,0 +1,80 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:web.config" caret="531" fromTop="9" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:css/f:jquery.treeview.css" caret="1002" fromTop="16" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:js/f:MarkerCluster.js" caret="34820" fromTop="16" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:MasterPage.master" caret="324" fromTop="6" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:js/f:demo.js" caret="12" fromTop="0" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx" caret="0" fromTop="0" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx.cs" caret="12917" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:web.config" caret="531" fromTop="9" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:css/f:jquery.treeview.css" caret="2260" fromTop="26" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:css/f:jquery.treeview.css" caret="2619" fromTop="30" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:css/f:jquery.treeview.css" caret="1540" fromTop="16" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:css/f:jquery.treeview.css" caret="656" fromTop="1" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx.cs" caret="12406" fromTop="8" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:MasterPage.master" caret="819" fromTop="13" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:js/f:demo.js" caret="630" fromTop="6" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx.cs" caret="11361" fromTop="9" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx.cs" caret="13787" fromTop="28" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx.cs" caret="13787" fromTop="29" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:css/f:jquery.treeview.css" caret="185" fromTop="12" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:css/f:jquery.treeview.css" caret="1002" fromTop="16" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx.cs" caret="11903" fromTop="8" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:MasterPage.master" caret="18373" fromTop="14" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:MasterPage.master" caret="0" fromTop="0" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:MasterPage.master" caret="976" fromTop="17" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx.cs" caret="13621" fromTop="23" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/d:js/f:demo.js" caret="119" fromTop="5" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx.cs" caret="13287" fromTop="13" />
+      <File id="BBDF3394-FD16-41D1-B25A-01129E259F2A/f:GoogleMap.aspx.cs" caret="12917" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="chk" priority="31" />
+      <Item value="string" priority="63" />
+      <Item value="chkbox" priority="31" />
+      <Item value="pm" priority="31" />
+      <Item value="var" priority="31" />
+      <Item value="new" priority="31" />
+      <Item value="List" priority="29" />
+      <Item value="listOfUls" priority="31" />
+      <Item value="foreach" priority="31" />
+      <Item value="liText" priority="58" />
+      <Item value="listItem" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="function" priority="10" />
+      <Item value="debugger" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProfileMetric">
+      <Item value="columnname" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

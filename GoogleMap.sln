@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GoogleMap", ".", "{BBDF3394-FD16-41D1-B25A-01129E259F2A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/GoogleMap"
+		Debug.AspNetCompiler.PhysicalPath = "..\GoogleMap\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\GoogleMap\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/GoogleMap"
+		Release.AspNetCompiler.PhysicalPath = "..\GoogleMap\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\GoogleMap\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3628"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDF3394-FD16-41D1-B25A-01129E259F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDF3394-FD16-41D1-B25A-01129E259F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDF3394-FD16-41D1-B25A-01129E259F2A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDF3394-FD16-41D1-B25A-01129E259F2A}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
