@@ -9,17 +9,17 @@ ASP.NET MEMBERSHIP application service for role-based authentication. BW - 9/15/
   void Logon_Click(object sender, EventArgs e)
   //added 2/13/2012
   {
-      if ((UserID.Text == "AAAAAAA") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "BBBBBBB") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "CCCCCCC") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "DDDDDDD") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "EEEEEEE") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "FFFFFFF") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "GGGGGGG") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "HHHHHHH") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "IIIIIII") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "JJJJJJJ") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "KKKKKKK") && (UserPass.Text == "xxxxxxx")) 
+      if ((UserID.Text == "K765998") && (UserPass.Text == "xxxxxxx") ||
+          (UserID.Text == "o029919") && (UserPass.Text == "xxxxxxx") ||
+          (UserID.Text == "K218405") && (UserPass.Text == "xxxxxxx") ||
+          (UserID.Text == "C939106") && (UserPass.Text == "xxxxxxx") ||
+          (UserID.Text == "X454353") && (UserPass.Text == "xxxxxxx") ||
+          (UserID.Text == "K802438") && (UserPass.Text == "xxxxxxx") ||
+          (UserID.Text == "K142057") && (UserPass.Text == "xxxxxxx") ||
+          (UserID.Text == "K103385") && (UserPass.Text == "xxxxxxx") ||
+          (UserID.Text == "T280442") && (UserPass.Text == "xxxxxxx") ||
+          (UserID.Text == "S507118") && (UserPass.Text == "xxxxxxx") ||
+		  (UserID.Text == "s291320") && (UserPass.Text == "s291320")) //my creds
       {
           FormsAuthentication.RedirectFromLoginPage
              (UserID.Text, Persist.Checked);
