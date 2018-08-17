@@ -19,7 +19,7 @@ ASP.NET MEMBERSHIP application service for role-based authentication. BW - 9/15/
           (UserID.Text == "HHHHHHH") && (UserPass.Text == "xxxxxxx") ||
           (UserID.Text == "IIIIIII") && (UserPass.Text == "xxxxxxx") ||
           (UserID.Text == "JJJJJJJ") && (UserPass.Text == "xxxxxxx") ||
-          (UserID.Text == "KKKKKKK") && (UserPass.Text == "xxxxxxx")) //my creds
+          (UserID.Text == "KKKKKKK") && (UserPass.Text == "xxxxxxx")) 
       {
           FormsAuthentication.RedirectFromLoginPage
              (UserID.Text, Persist.Checked);
