@@ -10,7 +10,6 @@
 **[Troubleshooting](#troubleshooting)**<br>
 **[Compatibility](#compatibility)**<br>
 **[Notes and Miscellaneous](#notes-and-miscellaneous)**<br>
-**[Building the Extension Bundles](#building-the-extension-bundles)**<br>
 **[Next Steps, Credits, Feedback, License](#next-steps)**<br>
 
 ## Installation Instructions
@@ -33,16 +32,11 @@
 
 * 
 
-
-
-
 ## Next Steps
 
-See the [issues list](https://github.com/adam-p/markdown-here/issues) and the [Notes Wiki](https://github.com/adam-p/markdown-here/wiki/Development-Notes). All ideas, bugs, plans, complaints, and dreams will end up in one of those two places.
+See the [issues list](https://github.com/KermitCoder/GoogleMap/issues) and the [Notes Wiki](https://github.com/KermitCoder/GoogleMap/wiki/Development-Notes). All ideas, bugs, plans, complaints, and dreams will end up in one of those two places.
 
-Feel free to create a feature request issue if what you want isn't already there. If you'd prefer a less formal approach to floating an idea, post to the ["markdown-here" Google Group](https://groups.google.com/forum/?fromgroups=#!forum/markdown-here).
-
-It also takes a fair bit of work to stay up-to-date with the latest changes in all the applications and web sites where Markdown Here works.
+Feel free to create a feature request issue if what you want isn't already there. If you'd prefer a less formal approach to floating an idea, post to the ["PVT" Google Group](https://groups.google.com/forum/?fromgroups=#!forum/PVT).
 
 ## Credits
 
@@ -50,11 +44,9 @@ It also takes a fair bit of work to stay up-to-date with the latest changes in a
 
 ## Feedback
 
-All bugs, feature requests, pull requests, feedback, etc., are welcome. [Create an issue](https://github.com/KermitCoder/GoogleMap/issues). Or [post to the "PVT" Google Group](https://groups.google.com/forum/?fromgroups=#!forum/PVT).
+* All bugs, feature requests, pull requests, feedback, etc., are welcome. [Create an issue](https://github.com/KermitCoder/GoogleMap/issues). Or [post to the "PVT" Google Group](https://groups.google.com/forum/?fromgroups=#!forum/PVT).
 
 ## License
-
-### Code
 
 MIT License: http://wexler-brakebill.mit-license.org/ or see [the `LICENSE` file](https://github.com/KermitCoder/GoogleMap/blob/master/LICENSE).
 
